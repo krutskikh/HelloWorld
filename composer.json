@@ -1,0 +1,12 @@
+{
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "require": {
+    "php": "7.*",
+    "phpunit/phpunit": "*"
+  }
+}
