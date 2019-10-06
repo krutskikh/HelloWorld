@@ -1,14 +1,17 @@
 # First Project to push on GitHub
 
 ## Installation:
-1. Close repo
-`git clone`
 
-## 2. Go to project
+### 1. Close repo
+`git clone https://github.com/krutskikh/HelloWorld.git`
+
+### 2. Go to project
 `cd HelloWorld`
 
-## 3. Install dependencies
+### 3. Install dependencies
 `composer install`
 
-## 4. Run tests
-`phpunit src/Tests/AssertTrueFalse.php`
+## Running tests
+
+### Use `phpunit {test name}`
+### Example: `phpunit src/Tests/AssertTrueFalse.php`
