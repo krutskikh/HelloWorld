@@ -1,18 +1,32 @@
 {
+  "name": "krutskikh/HelloWorld",
+  "description": "Test true ia false",
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
       "": "src/"
     }
   },
-  "require": {
-    "php": "7.*",
-    "phpunit/phpunit": "*"
-  },
   "repositories": [
     {
       "type": "git",
       "url": "https://github.com/krutskikh/HelloWorld"
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "krutskikh/HelloWorld",
+        "version": "dev-master",
+        "source": {
+          "url": "https://github.com/krutskikh/HelloWorld",
+          "type": "git",
+          "reference": "origin/develop"
+        }
+      }
     }
-  ]
+  ],
+  "require": {
+    "php": "7.*",
+    "phpunit/phpunit": "*"
+  }
 }
