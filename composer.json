@@ -1,6 +1,6 @@
 {
   "name": "krutskikh/HelloWorld",
-  "description": "Test true ia false",
+  "description": "Test true is false",
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
