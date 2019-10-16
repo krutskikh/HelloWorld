@@ -8,5 +8,11 @@
   "require": {
     "php": "7.*",
     "phpunit/phpunit": "*"
-  }
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/krutskikh/HelloWorld"
+    }
+  ]
 }
