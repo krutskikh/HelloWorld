@@ -2,7 +2,7 @@
 
 ## Installation:
 
-### 1. Close repo
+### 1. Clone repository
 `git clone https://github.com/krutskikh/HelloWorld.git`
 
 ### 2. Go to project
